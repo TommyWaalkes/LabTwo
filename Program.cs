@@ -15,6 +15,7 @@ namespace Lab_2
             int time = int.Parse(input);
             Console.WriteLine(time);
             Console.WriteLine("hi");
+            Console.WriteLine();
             Console.WriteLine("Hey do you want a coat?");
             string input2 = Console.ReadLine();
             if(input2 == "yes")
