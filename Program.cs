@@ -11,8 +11,18 @@ namespace Lab_2
         public static void Main(string[] args)
         {
             Console.WriteLine("Hey user what time is it?");
-            string input = Console.ReadLine();
-            int time = int.Parse(input);
+            int time;
+            try
+            {
+                string input = Console.ReadLine();
+                time = int.Parse(input);
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("That is not a valid number");
+                Console.WriteLine("Lets assume its 12pm");
+                time = 12;
+            }
             Console.WriteLine(time);
             Console.WriteLine("hi");
             Console.WriteLine();

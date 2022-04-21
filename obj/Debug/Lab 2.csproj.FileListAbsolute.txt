@@ -5,3 +5,11 @@ C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Lab 2\obj\Debug\Lab 2.cspro
 C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
 C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Lab 2\obj\Debug\Lab 2.exe
 C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\bin\Debug\Lab 2.exe.config
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\bin\Debug\Lab 2.exe
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\bin\Debug\Lab 2.pdb
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\obj\Debug\Lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\obj\Debug\Lab 2.exe
+C:\Users\Tommy\Desktop\Lab 2\LabTwo\obj\Debug\Lab 2.pdb
